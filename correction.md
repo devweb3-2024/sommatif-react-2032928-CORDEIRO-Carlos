@@ -1,0 +1,3 @@
+Le jeu ne démarre pas...
+
+Que s'est-il passé ?
